@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For X-NUCLEO-IKS01A1 LPS25HB
+####################################### 
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+LPS25HB	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################	
+
+
+deviceCheck	KEYWORD2
+powerUp	KEYWORD2
+setResolution	KEYWORD2
+begin	KEYWORD2
+readPressure	KEYWORD2
+readTemperature	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
